@@ -1,0 +1,17 @@
+.addToCart {
+    display: flex;
+    align-items: center;
+  }
+
+.addToCartButtons {
+  border: 1px solid #ccc; 
+  padding: 5px 10px; 
+  margin-right: 5px;
+}
+
+.submitButton {
+    font-weight: bold; 
+    border: 2px solid #000; 
+    padding: 10px 20px; 
+  }
+  
