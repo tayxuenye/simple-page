@@ -7,7 +7,7 @@ function BasicExample() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home">Xuen Ye's dairy company</Navbar.Brand>
+        <Navbar.Brand href="#home">Xuen Ye dairy company</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">

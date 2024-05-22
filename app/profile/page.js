@@ -7,7 +7,7 @@ const page = () => {
   return (
     <div>
         <BasicExample />
-        <p>Established in 2002, Xuen Ye's dairy company has been producing fresh milk at affordable prices for residences of Bangkok.</p>
+        <p>Established in 2002, Xuen Ye dairy company has been producing fresh milk at affordable prices for residences of Bangkok.</p>
     </div>
   )
 }
