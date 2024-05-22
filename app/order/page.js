@@ -4,7 +4,7 @@ import BasicExample from '../components/navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import styles from './page.module.css';
 
-const page = () => {
+const OrderPage = () => {
   const [numOfItems, setNumOfItems] = React.useState(0);
 
   function add() {
@@ -31,4 +31,4 @@ const page = () => {
   )
 }
 
-export default page;
+export default OrderPage;
